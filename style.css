@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+
+
+
+
+#txt-input
+{
+    align-content: center;
+    border: 1px solid black;
+    height: 10vh;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-left:300px;
+  
+
+  
+
+}
+
+
+
+#btn-translate
+{
+    align-content: center;
+    margin-bottom: 10px;
+    width:100px;
+    height:50px;
+    background-color:yellow;
+    margin-left:600px;
+
+}
+
+#body
+{
+    background-image:url("https://marketplace.canva.com/EAFC908rtPY/1/0/1600w/canva-purple-and-peach-rainbow-waves-desktop-wallpaper-afsazXR5vWo.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(8, 173, 19);
+}
+
+#output
+{
+    display:block;
+}
+
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 10px;
+    margin-left:300px;
+}
+
+h1
+{
+    color:black;
+}
+ #nav-text
+{
+    color:white;
+    text-align:center;
+    color:black;
+
+   
+}
+
+#out-txt
+{
+    color:black;
+    text-align: center;
+    text-size-adjust: 100%;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1{
+    text-align:center;
+}
